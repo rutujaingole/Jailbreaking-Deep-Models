@@ -4,7 +4,7 @@ This repository contains the codebase for Deep Learning Project 3 (Spring 2025),
 
 ## Project Overview
 
-Modern neural networks, despite achieving high accuracy on standard benchmarks, remain susceptible to carefully crafted perturbations that are often imperceptible to humans. This project demonstrates how such attacks can significantly degrade model performance, even reducing ResNet-34's top-1 accuracy from 76% to 0% under PGD—while appearing visually unchanged.
+Modern neural networks, despite achieving high accuracy on standard benchmarks, remain susceptible to carefully crafted perturbations that are often imperceptible to humans. This project demonstrates how such attacks can significantly degrade model performance, even reducing ResNet-34's top-1 accuracy from 76% to 0% under PGD, while appearing visually unchanged.
 
 Three attack strategies are explored:
 - **FGSM**: A fast, single-step attack used as a baseline
