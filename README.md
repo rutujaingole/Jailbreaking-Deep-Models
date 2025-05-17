@@ -14,6 +14,7 @@ Three attack strategies are explored:
 In addition, the transferability of these attacks is evaluated on DenseNet-121 to assess cross-model generalization.
 
 ## Directory Structure
+```
 .
 ├── code/
 │ ├── Project3_DL.ipynb # Main attack and evaluation notebook
@@ -25,7 +26,16 @@ In addition, the transferability of these attacks is evaluated on DenseNet-121 t
 ├── data/
 │ └── TestDataSet.zip # Provided test dataset (or instructions to download)
 
+```
 
+## Main Libraries:
+```
+torch
+torchvision
+matplotlib
+numpy
+
+```
 
 ## Key Results
 
